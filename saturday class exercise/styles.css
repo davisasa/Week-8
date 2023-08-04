@@ -1,0 +1,43 @@
+.header-dropdown{
+    display: flex;
+}
+
+.dropdown-clr{
+    background-color: #fff;
+    color: black;
+    
+}
+
+.dropdown-padding{
+    padding-left: 15px;
+}
+
+.full-nav{
+    padding-top: 50px;
+}
+
+.content-full{
+    padding-top: 30px;
+}
+
+.card-style{
+    display: flex;
+    padding-bottom: 40px;
+}
+
+
+
+p{
+    opacity: 50%;
+}
+
+.button-size{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    
+}
+
+.button-padding{
+    padding-top: 30px;
+}

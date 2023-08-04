@@ -1,0 +1,491 @@
+body{
+    padding: none;
+    margin: none;
+    right: 0;
+    left: 0;
+}
+
+.background-img{
+    background-image: url(https://img.freepik.com/free-photo/business-concept-confident-thoughtful-young-african-american-pointing-finger-side-grey-background_1258-104046.jpg?w=740&t=st=1689024369~exp=1689024969~hmac=8b4350fb1d72e9c4559065d567a25c2f2f49dc49e3b3cce76bad141cfaccd704) !important;
+    width: 100%;
+    height: 100vh;
+    background-position: right;
+    background-size:cover;
+    right: 0;
+    left: 0;
+}
+
+.rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #fff;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.rounded-button-nav {
+    display: inline-block;
+    padding: 15px 20px;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    width: 180px;
+    cursor: pointer;
+}
+
+
+.logo{
+    height: 90px;
+    color: white;
+}
+
+.nav-text-clr{
+    color: #fff !important;
+    font-size: 20px;
+}
+
+.navbar-pad{
+    padding-top: 20px;
+    padding-left: 90px;
+    padding-right: 110px;
+}
+
+#nav-button{
+    background-color: tra;
+}
+.header-text{
+    padding-left: 90px;
+    display: flex;
+}
+
+.line-length{
+    width: 100px;
+    background-color: #fff;
+    margin-top: 200px;
+    margin-right: 40px;
+}
+
+.opening-text{
+    margin-top: 150px;
+    color: #fff;
+}
+
+.opening-text h1{
+    font-size: 60px;
+    font-weight: 350;
+    padding-bottom: 40px;
+}
+
+.opening-text h4{
+    font-size: 30px;
+    font-weight: lighter;
+    padding-bottom: 40px;
+}
+
+.opening-text button{
+    width: 250px;
+    height: 80px;
+    font-size: 20px;
+}
+
+.rounded-button-1{
+    padding: 15px 20px;
+    border-radius: 50px;
+    background-color: #fff;
+    margin-right: 40px;
+}
+
+.rounded-button-2{
+    padding: 15px 20px;
+    border-radius: 50px;
+    background-color: RGB(0, 154, 205);
+    margin-right: 40px;
+    color: #fff;
+    border: none;
+}
+
+.section-wwd{
+    background-color: RGB(248, 249, 250);
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 60px;
+}
+
+.section-card{
+    background-color: RGB(248, 249, 250);
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+}
+
+.section-padding{
+    padding-top: 100px;
+}
+
+.section-padding button{
+    background-color: rgb(198, 216, 226);
+    border-radius: 50px;
+    color: RGB(0, 154, 205);
+    font-weight: bolder;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.section-padding h1{
+    font-size: 50px;
+}
+
+.section-card img{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 230px;
+    width: auto;
+    object-fit: contain;
+}
+
+
+.card-style{
+    text-align: center !important;
+    
+}
+
+.card-style p{
+    font-size: 20px;
+    opacity: 60%;
+}
+
+.card-height{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.section-video-txt{
+    background-color: RGB(76, 110, 245);
+    padding-top: 100px;
+    padding-bottom: 170px;
+    color: #fff;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
+.section-video-txt video{
+    height: 500px;
+    width: 700px;
+    border: none;
+    border-radius: 20px;
+    background-color: #000000;
+}
+
+.section-video-txt .section-vid-text{
+    padding-left: 120px;
+}
+
+.section-video-txt p{
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    font-size: 20px;
+    padding-bottom: 8px;
+    font-weight: 550;
+    width: 180px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.section-video-txt h1{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.section-video-txt h5{
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+.section-video-txt ul{
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+.rounded-button-4{
+    padding: 15px 20px;
+    border-radius: 50px;
+    background-color: #fff;
+    height: 70px;
+    width: 200px;
+}
+
+.section-pic-txt{
+    padding-top: 110px;
+    padding-bottom: 110px;
+    padding-left: 130px;
+    padding-right: 150px;
+}
+
+.section-pic-txt img{
+    height: 600px;
+    width: 700px;
+}
+
+.section-pic-txt h1{
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+
+.section-pic-txt p{
+    font-size: 25px;
+    opacity: 60%;
+    padding-bottom: 20px;
+}
+
+.section-pic-txt ul{
+    font-size: 23px;
+    line-height: 40px;
+    margin-left: -1em;
+}
+
+
+.rounded-button-5{
+    background-color: #e5ebf7;
+    color: #3375ec;
+    font-size: 20px;
+    padding-bottom: 8px;
+    font-weight: 550;
+    width: 160px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.section-background-img{
+    background-image:url(../img/edited-man-woman-business.png);
+    background-size: cover;
+    background-position:left top;
+    height: 90vh;
+    padding-top: 180px;
+}
+
+.section-background-img .rounded-button-6{
+    background-color: #e5ebf7;
+    color: #3375ec;
+    font-size: 20px;
+    padding-bottom: 8px;
+    font-weight: 550;
+    width: 220px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.section-wwwo h2{
+    font-size: 50px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+
+.blue-h{
+    color: rgb(40, 40, 250);
+}
+
+.info-p{
+    font-size: 22px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.section-faq{
+    background-color: #f9f8f8;
+    height: auto;
+    padding-top: 150px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 50px;
+}
+
+.section-faq ul{
+    font-size: 27px;
+    line-height: 60px;
+    background-color: transparent !important;
+}
+
+.section-faq h1{
+    font-size: 60px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+.section-faq li{
+    background-color: transparent;
+}
+
+.section-faq .blue-p{
+    background-color: #e5ebf7;
+    color: #3375ec;
+    font-size: 20px;
+    padding-bottom: 8px;
+    font-weight: 550;
+    margin-left: 20px;
+    width: 220px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.dropdown-text{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.section-faq .tab-buttons{
+    background-color: transparent;
+    color: #000000;
+    border: 0.1px solid rgb(196, 195, 195) !important;
+    height: 130px;
+    border: none;
+    font-size: 30px;
+    font-weight: 350;
+}
+
+.card-trans{
+    background-color: transparent !important;
+    
+}
+
+.card-spacing{
+margin-bottom: 40px;
+background-color: transparent;
+}
+
+.card-spacing button{
+    text-decoration: none !important;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-color: currentcolor;
+}
+
+.card-body-1{
+    font-size: 21px;
+    font-weight: 400;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.card-spacing button:focus, .card-spacing button:active{
+    background-color: #fff;
+}
+
+.card-spacing button:focus, .card-spacing button:focus {
+    outline: none !important;
+}
+
+
+.img-carou{
+    background-color: #3375ec;
+    color: #fff;
+    padding-top: 100px;
+    height: 70vh;
+}
+
+.rounded-button-7{
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    font-size: 20px;
+    padding-bottom: 8px;
+    font-weight: 550;
+    width: 220px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.footer-content{
+    padding-top: 90px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+}
+
+.footer-content a{
+    color: #000000;
+}
+
+.footer-content a:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+footer ul{
+    list-style: none;
+    margin-left: -1.8em;
+    font-size: 21px;
+    padding-bottom: 10px;
+    padding-top: 40px;
+}
+
+footer ul li{
+    padding-bottom: 10px;
+}
+
+.footer-feature{
+    padding-top: 40px;
+}
+
+.footer-p a{
+    padding-top: 40px;
+    font-size: 20px;
+    color: #000000;
+}
+
+.footer-p{
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.footer-p a:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+.footer-base{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 18px;
+    opacity: 60%;
+}
+
+.footer-wwe{
+    margin-left: -3em;
+}
+.footer-ql{
+    margin-left: 3em;
+}
+
+.carousel-inner img{
+    height: 100px;
+    width: 50px;
+}
+
+@media screen and (min-width:567px) {
+    .carousel-inner{
+        display: flex;
+    }
+
+    .carousel-item{
+        display: block;
+        margin-right: 0;
+        flex: 0 0 calc(100%/4)
+    }
+}
+
+.carousel-inner{
+    padding: 1em;
+}
